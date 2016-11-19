@@ -1,3 +1,5 @@
-# openconnectome.github.io
+# docs.neurodata.io
 
-## this repo is now defunct
+## Nothing to see here. 
+
+#### What about over [here](https://github.com/neurodata/nddocs)?
